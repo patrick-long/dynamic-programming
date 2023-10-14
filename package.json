@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-programming",
+  "version": "1.0.0",
+  "description": "A project aimed at tracking memory usage and runtime performance between simple common algorithm solutions and memoized algorithm solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
