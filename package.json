@@ -1,6 +1,7 @@
 {
   "name": "dynamic-programming",
   "version": "1.0.0",
+  "type": "module",
   "description": "A project aimed at tracking memory usage and runtime performance between simple common algorithm solutions and memoized algorithm solutions",
   "main": "index.js",
   "scripts": {
